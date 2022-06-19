@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 !pip install bioinfokit
 
 #Loading the dataset
-df = pd.read_csv("../input/mcdonalds/mcdonalds.csv")
+df = pd.read_csv("../input/mcdonalds/mac.csv")
 df.shape
 df.head()
 df.dtypes
